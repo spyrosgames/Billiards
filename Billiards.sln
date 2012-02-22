@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{91021983-93A4-074E-B98F-331FBF61C789}") = "Billiards", "Billiards.csproj", "{04658CA9-4827-3683-2448-CD38F8FE62FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04658CA9-4827-3683-2448-CD38F8FE62FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04658CA9-4827-3683-2448-CD38F8FE62FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04658CA9-4827-3683-2448-CD38F8FE62FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04658CA9-4827-3683-2448-CD38F8FE62FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
